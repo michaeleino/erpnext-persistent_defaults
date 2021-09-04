@@ -1,11 +1,11 @@
-## Customstyle
+## persistent_defaults
 
 for erpnext custom styles
 installing App to ERPNext
 
-`bench get-app customstyle https://github.com/michaeleino/erpnext-customstyle.git`
+`bench get-app persistent_defaults https://github.com/michaeleino/erpnext-persistent_defaults.git`
 
-`bench install-app customstyle`
+`bench install-app persistent_defaults`
 
 ## To update this app ONLY
 use bench exlude-app for all apps that needed not to be updated for ex:
@@ -20,7 +20,7 @@ then run
 
 OR
 
-`git -C apps/customstyle/customstyle pull`
+`git -C apps/persistent_defaults/persistent_defaults pull`
 
 then
 
