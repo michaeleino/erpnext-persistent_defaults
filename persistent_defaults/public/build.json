@@ -1,0 +1,8 @@
+{
+	"js/persistent_defaults.js": [
+		"public/js/persistent_defaults.js"
+	],
+	"js/clear_persistent_defaults.js": [
+		"public/js/clear_persistent_defaults.js"
+	]
+}
