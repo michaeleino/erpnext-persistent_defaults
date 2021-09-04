@@ -10,7 +10,7 @@ from customstyle import __version__ as version
 setup(
 	name='persistent_defaults',
 	version=version,
-	description='for erpnext custom styles',
+	description='for erpnext persistent session defaults',
 	author='Michael F',
 	author_email='michaeleino@hotmail.com',
 	packages=find_packages(),
