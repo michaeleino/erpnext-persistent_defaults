@@ -1,0 +1,1 @@
+# erpnext-persistent_defaults
