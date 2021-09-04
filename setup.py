@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 from customstyle import __version__ as version
 
 setup(
-	name='customstyle',
+	name='persistent_defaults',
 	version=version,
 	description='for erpnext custom styles',
 	author='Michael F',
