@@ -1,6 +1,6 @@
 ## persistent_defaults
 
-for erpnext custom styles
+for erpnext persistent session defaults
 installing App to ERPNext
 
 `bench get-app persistent_defaults https://github.com/michaeleino/erpnext-persistent_defaults.git`
@@ -28,4 +28,4 @@ then
 
 #### License
 
-MIT
+GNU3
